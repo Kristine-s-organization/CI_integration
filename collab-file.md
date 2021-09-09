@@ -1,3 +1,4 @@
 # Want to 
+Im adding stuff here, since you said 
 
-test how to merge/pull request this
+Im changing here since you said
